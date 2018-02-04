@@ -1,0 +1,55 @@
+#girlie {
+ color: pink;
+ font-family: 'GOUDY STOUT', serif;
+ font-size: 60px;
+
+}
+#color {
+ background-color: Gray;
+}
+
+.topnav a{  
+ text-align: center;
+ width:150px;
+ display: inline;
+ text-decoration:none;
+ padding: 16px 20px;
+ color: pink;
+ font-weight: bold;
+
+}
+
+.tired a{
+	color: white;
+}
+
+a:hover {
+	background-color: #161d47;
+}
+
+.mutts a{
+	text-align: center;
+	width:150px;
+	display:inline;
+	text-decoration:none;
+	padding: 16px 20px;
+	color: #006400;
+	font-family: 'Lucida Handwriting', serif;
+}
+
+
+
+#intro {
+	color: #006400;
+	font-family: 'GOUDY STOUT', serif;
+}
+
+#font {
+	color: white;
+	font-family: 'Times New Roman', serif;
+}
+
+#footer {
+	font-family: 'Times New Roman', serif;
+	font-size: 10 px;
+}
